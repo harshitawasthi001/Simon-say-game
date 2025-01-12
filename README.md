@@ -1,2 +1,2 @@
-# Simon-say-game
+# Simon-says-game
 it's my first little project 
